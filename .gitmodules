@@ -1,0 +1,6 @@
+[submodule "jdbc-yml-quick-common"]
+	path = jdbc-yml-quick-common
+	url = https://github.com/G-ChenNing/jdbc-yml-quick-common.git
+[submodule "jdbc-yml-quick-util"]
+	path = jdbc-yml-quick-util
+	url = https://github.com/G-ChenNing/jdbc-yml-quick-util.git
