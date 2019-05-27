@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="808f183d-41f2-4558-a114-62249f7eea3f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/jdbc-yml-quick-util/target/" />
+    <ignored path="$PROJECT_DIR$/jdbc-yml-quick-common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3872">
+              <caret line="176" selection-start-line="176" selection-end-line="176" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateQuery.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/CreateQuery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeneralService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/generalcrud/GeneralService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="28" column="61" lean-forward="true" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeneralServiceHandler.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/generalcrud/controller/general/GeneralServiceHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1078">
+              <caret line="64" column="28" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tomca</find>
+      <find>EntityManager</find>
+      <find>author yang</find>
+      <find>tech.xiangcheng.orangebus</find>
+      <find>异步调度服务已开启</find>
+      <find>mysql-connector-java</find>
+      <find>mysql</find>
+      <find>SessionFactory</find>
+      <find>general service start successfully</find>
+      <find>666</find>
+      <find>@Configuration</find>
+      <find>red</find>
+      <find>redis</find>
+      <find>run</find>
+      <find>js</find>
+      <find>3</find>
+      <find>comm</find>
+      <find>jpa</find>
+      <find>general service start fail</find>
+      <find>util</find>
+      <find>oss.sonatype.org/service/local/staging</find>
+      <find>local</find>
+      <find>args.get</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>author wangchenning</replace>
+      <replace>com.github.wangchenning</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/cpw/face/face-detection/face-module" value="PREVIEW" />
+        <entry key="D:/cpw/face/face-detection/faceDemo" value="PREVIEW" />
+        <entry key="D:/cpw/jiuli/HZGasUsher" value="PREVIEW" />
+        <entry key="D:/cpw/utry-workspace/face-detection" value="PREVIEW" />
+        <entry key="D:/cpw/utry-workspace/face-detection/faceDemo" value="PREVIEW" />
+        <entry key="D:/cpw/utry-workspace/master-school/utrycentaur/WakePlugin" value="PREVIEW" />
+        <entry key="D:/cpw/utry-workspace/nongxin/utrycentaur" value="PREVIEW" />
+        <entry key="D:/cpw/utry-workspace/utrycentaur" value="PREVIEW" />
+        <entry key="D:/cpw/utrycentaur" value="PREVIEW" />
+        <entry key="D:/cpw/utrycentaur/idCardPlugin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../develop/utry-robot-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../gongan/utry-robot-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../guangzhou/utry-robot-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../guangzhou/utry-robot-framework1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../guangzhou/utry-robot-framework2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nanduwuye/utry-robot-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../release" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../utry-face-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../utry-face-detection" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../utry-robot-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../utrycentaur-addface2.0" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/cn/xiangcheng/orangebus/leaf/util/log/Log.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/xiangcheng/orangebus/leaf/util/log/Log.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/orangebus/leaf/util/log/Log.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/log/Log.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/json/JsonObj.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/result/Result.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/utils/UserUtil.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/validator/isMobileValidator.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/cluster/RedisClusterService.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/rabbitmq/MQSender.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/wechat/pay/util/WechatSign.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/generalcrud/GeneralService.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/MSQL.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/AbstractQuery.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/BatchQuery.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/UpdateQuery.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/SQLGroupResult.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/SelectQuery.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/DBHelper.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/CommonApplication.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/hibernate/HibernateUtils.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-common/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/generalcrud/GeneralService.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/generalcrud/controller/general/GeneralServiceHandler.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-common/src/main/resources/yaml/query.yaml" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-common/src/main/resources/module.properties" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/cluster/JedisClusterConfig.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/rabbitmq/MQConfig.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/RedisService.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/QuerySystem.java" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-common/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc-yml-quick-util/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jdbc-yml-quick-opensource-wcn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jdbc-yml-quick-opensource-wcn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jdbc-yml-quick-wcn-simple" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jdbc-yml-quick-wcn-simple" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="wangchenning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="wangchenning" type="462c0819:PsiDirectoryNode" />
+              <item name="generalcrud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="wangchenning" type="462c0819:PsiDirectoryNode" />
+              <item name="generalcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="wangchenning" type="462c0819:PsiDirectoryNode" />
+              <item name="generalcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="general" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="yaml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="wangchenning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="wangchenning" type="462c0819:PsiDirectoryNode" />
+              <item name="leaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-yml-quick-opensource-wcn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-yml-quick-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="wangchenning" type="462c0819:PsiDirectoryNode" />
+              <item name="leaf" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdbc-yml-quick-opensource-wcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.wangchenning.leaf.util.rabbitmq" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cpw2\utry-workspace\jdbc-yml-quick-opensource-wcn\jdbc-yml-quick-common\src\main\resources\yaml" />
+      <recent name="D:\cpw2\utry-workspace\jdbc-yml-quick-opensource-wcn\jdbc-yml-quick-common\src\main\resources" />
+      <recent name="D:\cpw2\utry-workspace\jdbc-yml-quick-opensource-wcn\jdbc-yml-quick-common\src\main\java\com\github\wangchenning\generalcrud\controller" />
+      <recent name="D:\cpw2\utry-workspace\jdbc-yml-quick-opensource-wcn\jdbc-yml-quick-util\src\main\java\com\github\wangchenning\leaf\util" />
+      <recent name="D:\cpw2\utry-workspace\jdbc-yml-quick-opensource-wcn\jdbc-yml-quick-util\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CommonApplication">
+    <configuration name="LeafUtilApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.wangchenning.leaf.util.LeafUtilApplication" />
+      <module name="jdbc-yml-quick-util" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wangchenning.leaf.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-yml-quick-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.wangchenning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.wangchenning.CommonApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CommonApplication" />
+      <item itemvalue="Application.LeafUtilApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CommonApplication" />
+        <item itemvalue="Application.LeafUtilApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="808f183d-41f2-4558-a114-62249f7eea3f" name="Default" comment="" />
+      <created>1548296877471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548296877471</updated>
+      <workItem from="1548296880589" duration="9170000" />
+      <workItem from="1548306113568" duration="43000" />
+      <workItem from="1548306353030" duration="8539000" />
+      <workItem from="1548319936870" duration="3987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21739000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.336887" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="CDI" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="JSF" order="3" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44143167" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info anchor="bottom" id="Problems" order="7" weight="0.329718" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/generalcrud/controller/general/GeneralServiceHandler.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/generalcrud/controller/general/GeneralServiceHandler.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/generalcrud/controller/general/GeneralServiceHandler.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/generalcrud/controller/general/GeneralServiceHandler.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/generalcrud/GeneralService.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/QuerySystem.java</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/BatchQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/AbstractQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-771">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/UpdateQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/SQLGroupResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/LeafUtilApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/asynchronousService/AsynchronousServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/resources/ehcache-shiro.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/DBHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="27" column="7" selection-start-column="2" selection-end-line="41" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/json/JsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/resources/config/site.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/resources/yaml/busSchedule.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/resources/yaml/order.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/CommonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.9.RELEASE/spring-webmvc-4.3.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/SelectQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/resources/yaml/query.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/resources/yaml/querytest.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/resources/module.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/cluster/RedisClusterService.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/cluster/RedisMapper.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/cluster/RedisProperties.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/BasePrefix.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/GoodsKey.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/UserKey.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.3.RELEASE/spring-amqp-1.7.3.RELEASE.jar!/org/springframework/amqp/core/Queue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/rabbitmq/MQConfig.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/rabbitmq/MQReceiver.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/cluster/JedisClusterConfig.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/RedisConfig.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/OrderKey.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/MiaoshaUserKey.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/KeyPrefix.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisCluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/RedisPoolFactory.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/redis/RedisService.java" />
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/hibernate/HibernateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1760">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/utils/ValidatorUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/validator/isMobileValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/MQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/QuerySystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1915">
+          <caret line="48" column="11" lean-forward="true" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3872">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-util/src/main/java/com/github/wangchenning/leaf/util/sql/CreateQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/generalcrud/GeneralService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="28" column="61" lean-forward="true" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-yml-quick-common/src/main/java/com/github/wangchenning/generalcrud/controller/general/GeneralServiceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="64" column="28" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.5.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jdbc-yml-quick-opensource-wcn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
